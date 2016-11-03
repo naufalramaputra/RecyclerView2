@@ -2,6 +2,7 @@
 <project version="4">
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
+
   </component>
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
@@ -16,7 +17,6 @@
         </list>
       </value>
     </option>
-
     <option name="myNotNulls">
       <value>
         <list size="4">
