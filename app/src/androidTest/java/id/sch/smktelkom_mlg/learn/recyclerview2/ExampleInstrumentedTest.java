@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recyclerview1;
+package id.sch.smktelkom_mlg.learn.recyclerview2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -20,7 +20,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() throws Exception {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
-
         assertEquals("id.sch.smktelkom_mlg.learn.recyclerview1", appContext.getPackageName());
 
     }
