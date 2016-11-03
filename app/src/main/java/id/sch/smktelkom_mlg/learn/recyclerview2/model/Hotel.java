@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recyclerview1.model;
+package id.sch.smktelkom_mlg.learn.recyclerview2.model;
 
 import android.graphics.drawable.Drawable;
 
@@ -8,7 +8,6 @@ import android.graphics.drawable.Drawable;
 
 
 public class Hotel {
-
     public String judul;
     public String deskripsi;
     public Drawable foto;
@@ -17,5 +16,6 @@ public class Hotel {
         this.judul = judul;
         this.deskripsi = deskripsi;
         this.foto = foto;
+
     }
 }
